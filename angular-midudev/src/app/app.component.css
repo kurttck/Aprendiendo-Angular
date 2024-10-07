@@ -1,0 +1,10 @@
+h1 {
+  font-family: system-ui;
+  color: #09f;
+}
+
+div {
+  max-width: 500px;
+  font-size: 32px;
+  margin: 0 auto;
+}
